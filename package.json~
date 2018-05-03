@@ -30,7 +30,7 @@
   "bugs": {
     "url": "https://github.com/mczekala/portfolio/issues"
   },
-  "homepage": "https://github.com/mczekala/portfolio#readme"
+  "homepage": "https://github.com/mczekala/portfolio#readme",
    "devDependencies": {
    "autoprefixer-cli": "^1.0.0",
    "browser-sync": "^2.23.6",
